@@ -11,6 +11,7 @@
     "url": "git+https://github.com/you21979/node-bitcoin-lightwallet.git"
   },
   "dependencies": {
+    "bitcoinjs-lib": "3.3.*",
     "electrum-host-parse": "*",
     "electrum-client": "*"
   },

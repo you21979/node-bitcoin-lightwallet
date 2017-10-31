@@ -1,0 +1,10 @@
+{
+  "name" : "",
+  "xprv" : "",
+  "path" : "m/44'/0'/0'",
+  "chain" : {
+    "internal" : [],
+    "external" : [],
+    "import" : []
+  }
+}
